@@ -85,9 +85,9 @@ The Gradio interface allows users to:
 
 - ---
 ## Project Files
-DiabetesPredction.ipynb -> Main project notebook,
-README.md -> Project documentation.
-diabetes.csv -> Dataset
+- DiabetesPredction.ipynb -> Main project notebook
+- README.md -> Project documentation
+- diabetes.csv -> Dataset
 - ---
 ## Future Enhancements
 
