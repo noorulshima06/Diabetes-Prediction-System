@@ -87,7 +87,7 @@ The Gradio interface allows users to:
 ## Project Files
 DiabetesPredction.ipynb -> Main project notebook,
 README.md -> Project documentation.
-
+- ---
 ## Future Enhancements
 
 - Diabetes risk percentage score
@@ -95,6 +95,7 @@ README.md -> Project documentation.
 - Cloud deployment
 - Mobile-friendly version
 - Integration with healthcare systems
+- - ---
 ## Author
 
 Noorul Almaz Shima K
